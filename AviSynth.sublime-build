@@ -1,0 +1,6 @@
+{
+    "cmd": ["C:\\Program Files\\MPC-HC\\mpc-hc64.exe", "$file"],
+    "file_regex": "avs$",
+    "selector": "source.avs",
+    "shell": true
+}
